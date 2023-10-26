@@ -27,7 +27,7 @@ To run this program, follow these steps:
 
 ## Main Program
 
-The core of this project is located in `parking_agent.py`. This script contains the implementation of the autonomous parking system using the DDPG algorithm.
+The core of this project is located in `main.py`. This script contains the implementation of the autonomous parking system using the DDPG algorithm.
 
 ## Video Demonstration
 
