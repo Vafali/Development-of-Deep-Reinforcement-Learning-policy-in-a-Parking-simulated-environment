@@ -22,7 +22,7 @@ To run this program, follow these steps:
    Open a Command Prompt and navigate to your project folder, then execute the program using Python 3.7.
 
    ```bash
-   py -3.7 parking_agent.py
+   py -3.7 main.py
    ```
 
 ## Main Program
