@@ -31,7 +31,7 @@ The core of this project is located in `main.py`. This script contains the imple
 
 ## Video Demonstration
 
-For a visual overview of the project's best behaviors, you can find demonstration videos in the `best_behavior_videos` folder.
+For a visual overview of the project's best behaviors, you can find demonstration videos in the `best_behavior` folder.
 
 ## Contributions and Collaborations
 
