@@ -110,7 +110,7 @@ if __name__ == '__main__':
 
 	client = carla.Client(_HOST_, _PORT_)
 	client.set_timeout(10.0)
-	world = client.load_world('Town05')
+	world = client.load_world('Town02')
 
 	t = world.get_spectator().get_transform()
 
