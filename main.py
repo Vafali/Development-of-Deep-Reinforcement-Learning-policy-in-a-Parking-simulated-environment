@@ -34,7 +34,7 @@ _PORT_ = 2000
 _SLEEP_TIME_ = 0.5 
 
 FOLDER_PATH = os.getcwd()
-MAP_CSV_PATH = FOLDER_PATH + '/parking_map.csv'
+MAP_CSV_PATH = FOLDER_PATH + '/map.csv'
 
 TRAINING_INDICATOR = 2
 SELECTED_MODEL = 'only_throttle'
