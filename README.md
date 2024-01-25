@@ -35,7 +35,7 @@ For a visual overview of the project's best behaviors, you can find demonstratio
 
 ## Contributions and Collaborations
 
-If you're interested in contributing to this project or collaborating on further developments, please follow the guidelines in the "Contributing" section of this README. We welcome contributions and ideas from the community to enhance and expand the capabilities of this autonomous parking system.
+If you're interested in contributing to this project or collaborating on further developments, please follow the guidelines in the "Contributing" section of this README. I welcome contributions and ideas from the community to enhance and expand the capabilities of this autonomous parking system.
 
 
 ## Acknowledgments
